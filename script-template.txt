@@ -1,0 +1,3 @@
+# Assigned to {{.FromCity}} IP Address: {{.IPAddress}}
+tc_rules_{{.HostName}}="sudo tcdel eno1 --all\n{{range .Rules }}{{.}}\n{{ end }}"
+

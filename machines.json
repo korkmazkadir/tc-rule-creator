@@ -1,0 +1,82 @@
+[
+	{
+		"HostName": "nuc10.maas",
+		"IPAddress": "10.0.0.32"
+    },
+    {
+		"HostName": "nuc14.maas",
+		"IPAddress": "10.0.0.11"
+    },
+    {
+		"HostName": "nuc15.maas",
+		"IPAddress": "10.0.0.17"
+    },
+    {
+		"HostName": "nuc16.maas",
+		"IPAddress": "10.0.0.18"
+    },
+    {
+		"HostName": "nuc18.maas",
+		"IPAddress": "10.0.0.10"
+    },
+    {
+		"HostName": "nuc19.maas",
+		"IPAddress": "10.0.0.19"
+    },
+    {
+		"HostName": "nuc2.maas",
+		"IPAddress": "10.0.0.20"
+    },
+    {
+		"HostName": "nuc20.maas",
+		"IPAddress": "10.0.0.16"
+    },
+    {
+		"HostName": "nuc21.maas",
+		"IPAddress": "10.0.0.13"
+    },
+    {
+		"HostName": "nuc22.maas",
+		"IPAddress": "10.0.0.9"
+    },
+    {
+		"HostName": "nuc23.maas",
+		"IPAddress": "10.0.0.30"
+    },
+    {
+		"HostName": "nuc24.maas",
+		"IPAddress": "10.0.0.12"
+    },
+    {
+		"HostName": "nuc27.maas",
+		"IPAddress": "10.0.0.15"
+    },
+    {
+		"HostName": "nuc3.maas",
+		"IPAddress": "10.0.0.24"
+    },
+    {
+		"HostName": "nuc4.maas",
+		"IPAddress": "10.0.0.25"
+    },
+    {
+		"HostName": "nuc5.maas",
+		"IPAddress": "10.0.0.8"
+    },
+    {
+		"HostName": "nuc6.maas",
+		"IPAddress": "10.0.0.7"
+    },
+    {
+		"HostName": "nuc7.maas",
+		"IPAddress": "10.0.0.6"
+    },
+    {
+		"HostName": "nuc8.maas",
+		"IPAddress": "10.0.0.5"
+    },
+    {
+		"HostName": "nuc9.maas",
+		"IPAddress": "10.0.0.31"
+	}
+]

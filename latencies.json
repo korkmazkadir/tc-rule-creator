@@ -1,0 +1,34 @@
+[
+	{
+		"From": "Kiyev",
+		"Values": {
+			"London": 20,
+			"NewYork": 56,
+			"Paris": 20
+		}
+	},
+	{
+		"From": "London",
+		"Values": {
+			"Kiyev": 20,
+			"NewYork": 37,
+			"Paris": 4
+		}
+	},
+	{
+		"From": "NewYork",
+		"Values": {
+			"Kiyev": 56,
+			"London": 37,
+			"Paris": 39
+		}
+	},
+	{
+		"From": "Paris",
+		"Values": {
+			"Kiyev": 20,
+			"London": 4,
+			"NewYork": 37
+		}
+	}
+]
